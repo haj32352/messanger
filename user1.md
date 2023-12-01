@@ -1,1 +1,1 @@
-server
+None
