@@ -1,1 +1,1 @@
-jadi
+i am god
