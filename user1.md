@@ -1,1 +1,1 @@
-just for fun
+& C:/Users/amir/AppData/Local/Programs/Python/Python312/python.exe c:/Users/amir/Desktop/messanger/recieve.py
